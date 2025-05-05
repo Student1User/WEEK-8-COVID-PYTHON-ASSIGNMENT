@@ -1,0 +1,11 @@
+# Ignore virtual environments
+venv/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore dataset files (optional)
+*.csv

@@ -35,6 +35,7 @@ This project presents a data-driven analysis of global COVID-19 trends using a d
 - matplotlib
 - seaborn
 - numpy
+- Visual Studio code
 
 ## 📈 Visualizations Included
 

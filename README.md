@@ -1,8 +1,7 @@
-Great! Here's a **detailed and professional `README.md`** file for your COVID-19 Data Analysis project. It explains the project goals, dataset, methods, results, and how to run the notebook — perfect for submission or GitHub:
+
 
 ---
 
-```markdown
 # 🌍 COVID-19 Data Analysis & Visualization Project
 
 ## 📘 Overview
